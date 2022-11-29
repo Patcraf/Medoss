@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">MEDOSS</string>
+
+    <string name="title_home">MEDOSS</string>
+    <string name="title_home2">ACCUEIL</string>
+    <string name="title_dashboard">MEDOSS</string>
+    <string name="title_dashboard2">MEDECIN</string>
+    <string name="title_notifications">MEDOSS</string>
+    <string name="title_notifications2">MALADE</string>
+
+
+    <string name="deconnexion">Déconnexion</string>
+    <string name="register">S\'ENREGISTRER</string>
+    <string name="login">SE CONNECTER</string>
+    <string name="email">email</string>
+    <string name="password">password</string>
+    <string name="logo_de_l_application">Logo de l\'application</string>
+    <string name="title_activity_main">MainActivity</string>
+
+</resources>
